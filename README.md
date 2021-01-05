@@ -1,4 +1,4 @@
-# hello-word-c
+# hello-world-c
 
 
 ```
